@@ -1,2 +1,2 @@
-# practice
+# C Programs practice
 learning purpose
